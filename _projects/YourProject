@@ -1,0 +1,39 @@
+---
+collaborating_projects:
+  - 
+desc: "Dein Projekt"
+difficulty: medium
+status: Start_soon
+initiatives:
+- WeField
+
+issues:
+- Hier gehts zur Bewerbung (Insert Link)
+markdown: YourProject.md
+mentors:
+  - Finn-1
+name: "Dein Projekt"
+requirements:
+  - "Level 4"
+tags:
+  - marketgarden
+  - agroforestry
+---
+
+## Beschreibung
+
+Du hast ein Feld und möchtest dieses Umgestalten? 
+
+## Voraussetzung
+
+./.
+
+## Ablauf
+
+Der weitere Ablauf:
+Wir sichten deine Angaben.
+Du bekommst von uns einen Termin Vorschlag für einen Workshop. Vor Ort oder Virtuell.
+In dem Workshop legen wir gemeinsam dein Projekt an und erklären dir den genauen Ablauf.
+
+
+
