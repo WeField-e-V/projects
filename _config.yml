@@ -8,10 +8,6 @@ baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site
 githuburl: "https://github.com/WeField-e-V/projects/"
 
-gitter:
-  gsoc:
-    room: "https://gitter.im/coala/coala/gsoc"
-
 gsoc_switch_month: 6
 
 org:
