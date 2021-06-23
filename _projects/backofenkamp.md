@@ -1,44 +1,41 @@
 ---
 collaborating_projects:
   - about-code
-desc: "Add a recognised license file to a GitHub repository."
+desc: "Unser Testprojekt..."
 difficulty: low
-status: completed
+status: in_progress
 initiatives:
-  - GCI
+  - NABU 
+  - ECOSIA 
+  - Wir.bwegen.sh
 issues:
   - "https://github.com/coala/meta/issues/58"
   - "https://github.com/coala/meta/issues/81"
-markdown: add-repo-license.md
+markdown: backofenkamp.md
 mentors:
-  - pombredanne
-  - jayvdb
-name: "Add a recognised license file to a GitHub repository"
+  - Finn-1
+name: "WeField - Backofenkamp"
 requirements:
-  - "Joined http://coala.io/chat ."
+  - "Level 2 WeField Mitglied"
 tags:
-  - github
-  - license
+  - marketgarden
+  - agroforestry
 ---
-This is a repeatable task for Google Code-in.
+Dieses Projekt ist super, weil:
 
-## Task
+## Beschreibung
 
-Add a license file to a GitHub repository so that the license
-of the repository is recognised by GitHub, allowing the repository
-to appear in the GitHub search by license results.
+Fließtext
 
-## Requirements
+## Voraussetzung
 
-This task only requires use of the GitHub web interface.
+Was wird benötigt?
 
-## Process
+## Ablauf
 
-There are three steps for this task:
+Der weitere Ablauf
 
-1. Find a repository without a recognised `LICENSE` or `LICENSE.md` file.
-2. Determine the most appropriate license for the repository.
-3. Create a pull request adding a recognised `LICENSE` or `LICENSE.md` file.
+1. Melde dich beim Mentor
 
 ----
 
