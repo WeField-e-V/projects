@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - about-code
-desc: "Unsere erste Microfarm. Aus einer monokulturell genutzen Weidefläche haben wir ein kleines Ökosystem geschaffen, dass zum einen das gesamte Team mit Gemüse aus dem MarketGarden versorgt und zum anderen zu unserer Zenrale geworden ist."
+desc: "Our first Microfarm, Social-Hub and architectial creation room. From here we started our mission to enable regenerative Microfarming for everybody."
 difficulty: low
 status: in_progress
 initiatives:
@@ -27,21 +27,22 @@ tags:
   - social hub
   - architectual 
 ---
-Dieses Projekt ist super, weil:
 
-## Beschreibung
+## description
 
-Fließtext
+We are maintaining right now a 200m2 marketgarden, a 5000m2 Walnut Orchard and a 2000m2 fruit and berry Orchard. All Managed from our Social-Hub, the two refurbished Sea-Containers by (Lasse)
 
-## Voraussetzung
+## requirements
 
-Was wird benötigt?
+Everyone who is interested can come and learn.
 
-## Ablauf
+## participate
 
-Der weitere Ablauf
+Every Sunday we have our FarmShop open. Come by and get some fresh harvested veggies. 
+Open Sunday´s from 12am-4pm.
+If you want to participate at other Events, get a Membership and you will be informed by our Newsletter.
 
-1. Melde dich beim Mentor
+If you have a field, wherever you live, contact us.
 
 ----
 
