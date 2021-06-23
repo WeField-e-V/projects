@@ -1,13 +1,16 @@
 ---
 collaborating_projects:
   - about-code
-desc: "Unser Testprojekt..."
+desc: "## Unsere erste Microfarm. Aus einer monokulturell genutzen Weidefläche haben wir ein kleines Ökosystem geschaffen, dass zum einen das gesamte Team mit Gemüse aus dem MarketGarden versorgt und zum anderen zu unserer Zenrale geworden ist."
 difficulty: low
 status: in_progress
 initiatives:
   - NABU 
   - ECOSIA 
   - Wir.bwegen.sh
+  - ClimateFarmer
+  - GutHaidehof
+  - UXMA
 issues:
   - "https://github.com/coala/meta/issues/58"
   - "https://github.com/coala/meta/issues/81"
@@ -20,6 +23,9 @@ requirements:
 tags:
   - marketgarden
   - agroforestry
+  - hedges
+  - social hub
+  - architectual 
 ---
 Dieses Projekt ist super, weil:
 
