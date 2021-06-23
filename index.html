@@ -52,17 +52,12 @@
           </li>
           <li ng-class="{active:nc.isSet('/mentors')}">
             <a class="uppercase" ng-click="nc.setView('/mentors')" onmousedown="keyPressed(event, '#/mentors')">
-              Mentors
+              Members
             </a>
           </li>
           <li ng-class="{active:nc.isSet('/faq')}">
             <a ng-click="nc.setView('/faq')" onmousedown="keyPressed(event, '#/faq')" onerror="">
               FAQs
-            </a>
-          </li>
-          <li ng-class="{active:nc.isSet('/students')}">
-            <a ng-click="nc.setView('/students')" onmousedown="keyPressed(event, '#/students')" onerror="">
-              GSoC Students
             </a>
           </li>
           <li><a href="{{ site.githuburl }}" target="_blank" title="Fork us on GitHub"><i class="fa fa-github fa-2x"
@@ -127,7 +122,7 @@
         <span class="left">
           ©
           <span id="current-year"></span>
-          coala
+          WeField
         </span>
         <span class="grey-text text-lighten-4 right">{{ site.licence.short_form }}</span>
       </div>
