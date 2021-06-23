@@ -2,11 +2,7 @@
 collaborating_projects:
   - about-microfarming
 desc: "Our first Microfarm, Social-Hub and architectial creation room. From here we started our mission to enable regenerative Microfarming for everybody."
-difficulty:
-  - Gartenarbeit
-  - Bauen und Tischlern
-  - Workshops
-  - Elektronik
+difficulty: März - Oktober 2021
 status: in_progress
 initiatives:
   - NABU 
