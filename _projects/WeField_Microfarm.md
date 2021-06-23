@@ -2,7 +2,11 @@
 collaborating_projects:
   - about-microfarming
 desc: "Our first Microfarm, Social-Hub and architectial creation room. From here we started our mission to enable regenerative Microfarming for everybody."
-difficulty: low
+difficulty:
+  - Gartenarbeit
+  - Bauen und Tischlern
+  - Workshops
+  - Elektronik
 status: in_progress
 initiatives:
   - NABU 
@@ -14,7 +18,7 @@ initiatives:
 issues:
   - "https://github.com/coala/meta/issues/58"
   - "https://github.com/coala/meta/issues/81"
-markdown: backofenkamp.md
+markdown: WeField_Microfarm.md
 mentors:
   - Finn-1
 name: "WeField - Backofenkamp"
