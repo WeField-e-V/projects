@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - about-code
-desc: "## Unsere erste Microfarm. Aus einer monokulturell genutzen Weidefläche haben wir ein kleines Ökosystem geschaffen, dass zum einen das gesamte Team mit Gemüse aus dem MarketGarden versorgt und zum anderen zu unserer Zenrale geworden ist."
+desc: "Unsere erste Microfarm. Aus einer monokulturell genutzen Weidefläche haben wir ein kleines Ökosystem geschaffen, dass zum einen das gesamte Team mit Gemüse aus dem MarketGarden versorgt und zum anderen zu unserer Zenrale geworden ist."
 difficulty: low
 status: in_progress
 initiatives:
