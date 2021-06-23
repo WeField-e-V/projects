@@ -1,6 +1,6 @@
 ---
 collaborating_projects:
-  - about-code
+  - about-microfarming
 desc: "Our first Microfarm, Social-Hub and architectial creation room. From here we started our mission to enable regenerative Microfarming for everybody."
 difficulty: low
 status: in_progress
@@ -30,7 +30,7 @@ tags:
 
 ### description
 
-We are maintaining right now a 200m2 marketgarden, a 5000m2 Walnut Orchard and a 2000m2 fruit and berry Orchard. All Managed from our Social-Hub, the two refurbished Sea-Containers by (Lasse)
+We are maintaining right now a 200m2 marketgarden, a 5000m2 Walnut Orchard and a 2000m2 fruit and berry Orchard. All Managed from our Social-Hub.
 
 ### requirements
 
@@ -43,5 +43,7 @@ Open Sunday´s from 12am-4pm.
 If you want to participate at other Events, get a Membership and you will be informed by our Newsletter.
 
 If you have a field, wherever you live, contact us.
+
+
 
 
