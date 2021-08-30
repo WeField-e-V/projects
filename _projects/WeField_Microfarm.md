@@ -5,7 +5,7 @@ Kurzbeschreibung: "Unsere erste Microfarm, Social-Hub und architektonischer Entf
 Location: 53.822514592640054, 9.873189084017914, Heidkaten, Schleswig-Holstein, DE
 Status: in_progress
 Förderpartner
-  - NABU "https://schleswig-holstein.nabu.de/" 
+  - NABU 
   - ECOSIA 
   - Wir.bwegen.sh
   - ClimateFarmer
