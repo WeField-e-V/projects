@@ -30,7 +30,7 @@ tags:
 
 ### description
 
-We are maintaining right now a 200m2 marketgarden, a 5000m2 Walnut Orchard and a 2000m2 fruit and berry Orchard. All Managed from our Social-Hub.
+We are maintaining right now a 250m2 marketgarden, a 5000m2 Walnut Orchard and a 2000m2 fruit and berry Orchard. All Managed from our Social-Hub.
 
 ### requirements
 
