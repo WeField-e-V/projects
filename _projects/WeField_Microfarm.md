@@ -1,25 +1,24 @@
 ---
 collaborating_projects:
   - about-microfarming
-desc: "Our first Microfarm, Social-Hub and architectial creation room. From here we started our mission to enable regenerative Microfarming for everybody."
+Kurzbeschreibung: "Unsere erste Microfarm, Social-Hub und architektonischer Entfaltungsraum. Von hier aus haben wir unsere Mission gestartet, Microfarming für jeden zu ermöglichen. Lerne hier mehr über das Projekt.
 Location: 53.822514592640054, 9.873189084017914, Heidkaten, Schleswig-Holstein, DE
 Status: in_progress
 Förderpartner
-  - [NABU](https://schleswig-holstein.nabu.de/) 
+  - NABU "https://schleswig-holstein.nabu.de/" 
   - ECOSIA 
   - Wir.bwegen.sh
   - ClimateFarmer
   - GutHaidehof
   - UXMA
-issues:
-  - "https://github.com/coala/meta/issues/58"
-  - "https://github.com/coala/meta/issues/81"
+Projektstart
+  - 26.10.2019
 markdown: WeField_Microfarm.md
 mentors:
   - Finn-1
-name: "WeField - Backofenkamp"
-requirements:
-  - "Level 2 WeField Mitglied"
+Name: "WeField - Backofenkamp"
+Voraussetzungen:
+  - Für alle zugänglich
 tags:
   - marketgarden
   - agroforestry
@@ -28,21 +27,22 @@ tags:
   - architectual 
 ---
 
-### description
+### Beschreibung
 
-We are maintaining right now a 250m2 marketgarden, a 5000m2 Walnut Orchard and a 2000m2 fruit and berry Orchard. All Managed from our Social-Hub.
+Der Backofenkamp in Heidkaten ist unsere Pilot -und Testfläche. Auf ca. 8000m2 haben wir verschiedene Methoden der regenerativen Landwirtschaft angewendet, um aus der ehemaligen Pferdeweide ein Ökosystem für Mensch und Natur zu erschaffen.
+Dafür haben wir auf 250m2 einen no-dig Garten mit bio-intensiven Gemüseanbau angelegt. Dieser versorgt bis zu 10 Menschen wöchentlich mit frischem Gemüse. 
+Außerdem haben wir eine Streuobstwiese auf 2000m2 gepflanzt und eine Walnuss-Weidefläche auf 4750m2. Zwei ehemalige Asylcontainer haben wir zu einer Lager-Küche und einem Aufenthaltsraum umgbaut. Strom und Wasser erzeugen wir über Solarmodule, die den Brunnen betreiben und Elektrizität für Internet und alltägliche Dinge bereitstellen. 
 
-### requirements
+Das Projekt wird dauerhaft von Kevin Hoesch, Lasse Peters und Finn Peters betreut. Daneben gibt es noch viele andere Helfer und Mitglieder, die durch ihre Hilfe die Umsetzung des Projektes ermöglicht haben.
 
-Everyone who is interested can come and learn.
+Finanzielle Mittel zu Umsetzung gab es dafür von: Ecosia, NABU S-H, Wir.bewegen.Sh und vielen weiteren Fördermittelgebern.
 
-### participate
 
-Every Sunday we have our FarmShop open. Come by and get some fresh harvested veggies. 
-Open Sunday´s from 12am-4pm.
-If you want to participate at other Events, get a Membership and you will be informed by our Newsletter.
+### Mitmachen
 
-If you have a field, wherever you live, contact us.
+Mindestens einmal im Monat könnt ihr kommen uns auf dem Feld mithelfen. Werdet dafür Mitglied und lasst euch über unseren Newsletter über antehende Arbeiten informieren.
+
+Jeden Sonntag von 12-16 Uhr haben wir zudem unseren kleinen Farmshop. Kommt vorbei und holt euch frisches klimapositiv produziertes Gemüse ab.
 
 
 
