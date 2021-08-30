@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - about-microfarming
-desc: "Unsere erste Microfarm, Social-Hub und architektonischer Entfaltungsraum. Von hier aus haben wir unsere Mission gestartet, Microfarming für jeden zu ermöglichen. Lerne hier mehr über das Projekt.
+Kurzbeschreibung: "Unsere erste Microfarm, Social-Hub und architektonischer Entfaltungsraum. Von hier aus haben wir unsere Mission gestartet, Microfarming für jeden zu ermöglichen. Lerne hier mehr über das Projekt.
 Location: 53.822514592640054, 9.873189084017914, Heidkaten, Schleswig-Holstein, DE
 Status: in_progress
 Foerderpartner
