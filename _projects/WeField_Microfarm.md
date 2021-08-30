@@ -2,10 +2,10 @@
 collaborating_projects:
   - about-microfarming
 desc: "Our first Microfarm, Social-Hub and architectial creation room. From here we started our mission to enable regenerative Microfarming for everybody."
-difficulty: März - Oktober 2021
-status: in_progress
-initiatives:
-  - NABU 
+Location: 53.822514592640054, 9.873189084017914, Heidkaten, Schleswig-Holstein, DE
+Status: in_progress
+Förderpartner
+  - [NABU](https://schleswig-holstein.nabu.de/) 
   - ECOSIA 
   - Wir.bwegen.sh
   - ClimateFarmer
